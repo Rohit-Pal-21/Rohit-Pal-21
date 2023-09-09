@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Maatrudan(semi-automated milk distribution system)**
 
-- 🌱 I’m currently learning **React&ReactNative**
+- 🌱 I’m currently learning **React & Flutter**
 
 - 👯 I’m looking to collaborate on **Django backend and cloud Projects**
 
@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohit-Pal-21](https://github.com/Rohit-Pal-21)
 
-- 💬 Ask me about **Django,Tkinter,Python,**
+- 💬 Ask me about **Django,Tkinter,Python**
 
-- 📫 How to reach me **rohitpal7418@gmail.com**
+- 📫 How to reach me **rohitpalm44@gmail.com**
 
 - 📄 Know about my experiences [https://rohit-pal-21.github.io/](https://rohit-pal-21.github.io/)
 
